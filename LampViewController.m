@@ -252,6 +252,7 @@
     }else{
         NSURL * avatarimu = [NSURL URLWithString:avatar];
         [avatarv sd_setImageWithURL:avatarimu];
+        NSLog(@"第一次");
     }
 }
 
