@@ -25,10 +25,11 @@
     count = 60;
     [self createNaBar];
     [self createTF];
+    
 }
 
 -(void)createTF{
-    
+    NSLog(@"哈哈");
     UIView * back = [[UIView alloc] initWithFrame:CGRectMake(0, 89, self.view.bounds.size.width,144)];
     back.backgroundColor = [UIColor whiteColor];
     [self.view addSubview:back];
