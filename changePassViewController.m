@@ -31,6 +31,7 @@
 -(void)createTF{
     NSLog(@"哈哈");
     NSLog(@"这些恩么");
+    NSLog(@"苏俄护额和");
     UIView * back = [[UIView alloc] initWithFrame:CGRectMake(0, 89, self.view.bounds.size.width,144)];
     back.backgroundColor = [UIColor whiteColor];
     [self.view addSubview:back];
