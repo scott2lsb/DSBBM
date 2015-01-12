@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>微笑</key>
+	<string>ue056</string>
+	<key>哈哈</key>
+	<string>ue057</string>
+	<key>害羞</key>
+	<string>ue058</string>
+	<key>嘻嘻</key>
+	<string>ue059</string>
+	<key>吐舌头</key>
+	<string>ue105</string>
+	<key>飞吻</key>
+	<string>ue106</string>
+	<key>流鼻血</key>
+	<string>ue107</string>
+	<key>花心</key>
+	<string>ue108</string>
+	<key>发呆</key>
+	<string>ue401</string>
+	<key>惊讶</key>
+	<string>ue402</string>
+	<key>汗</key>
+	<string>ue404</string>
+	<key>灵感</key>
+	<string>ue410</string>
+	<key>尴尬</key>
+	<string>ue403</string>
+	<key>可怜</key>
+	<string>ue405</string>
+	<key>大哭</key>
+	<string>ue406</string>
+	<key>生气</key>
+	<string>ue40e</string>
+	<key>咆哮</key>
+	<string>ue40a</string>
+	<key>愤怒</key>
+	<string>ue40f</string>
+	<key>卖萌</key>
+	<string>ue412</string>
+	<key>疑问</key>
+	<string>ue413</string>
+	<key>娇媚</key>
+	<string>ue40b</string>
+	<key>闭嘴</key>
+	<string>ue414</string>
+	<key>晕</key>
+	<string>ue415</string>
+</dict>
+</plist>

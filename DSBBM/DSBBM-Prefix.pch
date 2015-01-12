@@ -1,0 +1,39 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "UIcol.h"
+    #import "mistiming.h"
+    #import "UIImageView+WebCache.h"
+    #import "constellation.h"
+    #import "BMapKit.h"
+    #import "BmobChatUser.h"
+    #import "BmobChatManager.h"
+    #import <BmobSDK/Bmob.h>
+    #import "BmobIM.h"
+    #import "BmobDB.h"
+    #import "DEMONavigationController.h"
+    #import "DEMOMenuViewController.h"
+    #import <SMS_SDK/SMS_SDK.h>
+    #import <TencentOpenAPI/QQApi.h>
+    #import "MJRefresh.h"
+    #import "TQRichTextView.h"
+
+#define Main_screen_width [UIScreen mainScreen].bounds.size.width
+#define Main_screen_height [UIScreen mainScreen].bounds.size.height
+
+#import "UIView+AD.h"
+#import "MBProgressHUD+NJ.h"
+
+#endif
